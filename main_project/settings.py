@@ -105,7 +105,7 @@ DATABASES = {
         'NAME': 'shoplifter',
         'USER': 'postgres',
         'PASSWORD':'Codeveryday',
-        'HOST':'database-1.cpditeko0hr8.ap-south-1.rds.amazonaws.com',
+        'HOST':'database-2.cpditeko0hr8.ap-south-1.rds.amazonaws.com',
         'PORT':'5432',
     }
 
